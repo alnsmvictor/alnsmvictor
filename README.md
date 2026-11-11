@@ -6,7 +6,6 @@
 
 <a href="https://alnsmvictor.github.io/alnsm-victor/"><img src="https://img.shields.io/badge/portfólio-161b22?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/victor-alonso-a32709309"><img src="https://img.shields.io/badge/linkedin-161b22?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=alnsmvictor&style=for-the-badge&color=161b22&label=views" />
 
 </div>
 
