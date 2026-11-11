@@ -15,10 +15,11 @@
 
 Sou desenvolvedor full stack, focado em criar aplicações completas — do back-end à interface.
 
-🧩 APIs com Node.js e TypeScript, integradas a bancos como MongoDB
-💻 Interfaces web com React, Next.js e Angular
-🔗 Integrações e automações para conectar sistemas e simplificar processos
-🎮 Gosto de interfaces com personalidade 
+🧩 APIs com Node.js e TypeScript, integradas a bancos como MongoDB<br/>
+💻 Interfaces web com React, Next.js e Angular<br/>
+🔗 Integrações e automações para conectar sistemas e simplificar processos<br/>
+🎮 Gosto de interfaces com personalidade
+
 ---
 
 ### 🧰 Stack
@@ -51,6 +52,3 @@ Sou desenvolvedor full stack, focado em criar aplicações completas — do back
 
 ---
 
-<div align="center">
-<sub>Feito com café e TypeScript ☕</sub>
-</div>
