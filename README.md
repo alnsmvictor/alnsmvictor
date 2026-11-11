@@ -14,13 +14,12 @@
 
 ### 👋 Olá!
 
-Sou desenvolvedor full stack e hoje atuo no setor de **logística**, estruturando do zero a arquitetura de software da empresa: back-end centralizado, banco de dados, integrações e automações que servem de base para as plataformas internas.
+Sou desenvolvedor full stack, focado em criar aplicações completas — do back-end à interface.
 
-- 🧩 Construindo APIs em **Node.js + TypeScript** sobre **PostgreSQL**, com deploy em VPS
-- 🛠️ Desenvolvendo uma central de chamados interna e preparando a base para novas plataformas operacionais
-- ☁️ Experiência com infraestrutura na **Oracle Cloud (OCI)**, MongoDB e APIs rodando com PM2
-- 🎮 Fora do código, transformo ideias em interfaces — meu portfólio é inspirado em menus de videogame
-
+🧩 APIs com Node.js e TypeScript, integradas a bancos como MongoDB
+💻 Interfaces web com React, Next.js e Angular
+🔗 Integrações e automações para conectar sistemas e simplificar processos
+🎮 Gosto de interfaces com personalidade 
 ---
 
 ### 🧰 Stack
